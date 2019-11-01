@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="CSS/styles.css">
+<html>
+	<head>
+	<title>Easy DIV Project</title>
+	</head>
+  	<body>
+  		<div id="painting"></div>
+  		<div id="toprow"></div>
+  		<div id="bigbox" class="right"></div> 
+  			<div id="div1" class=black></div>
+     		<div id="div2" class="black"></div>
+     		<div id ="tb1" class="white"></div>
+     	 	<div id="div3" class="black"></div>
+     		<div id="bb" class="blue"></div>
+    		<div id="div4" class="black"></div>
+      	<div id="div5" class="black"></div>
+      	<div id="b"></div>
+      	<div id="b2" class="yellow" ></div>
+      	<div id="b3"></div>
+  	</body>
+</html>
